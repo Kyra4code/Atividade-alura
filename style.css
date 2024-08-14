@@ -36,7 +36,6 @@ body {
   .categoria {
     padding-left: 20px;
     padding-right: 20px;
-    margin-top: 50px;
   }
 
   .categoria-videos img:hover {
@@ -47,27 +46,26 @@ body {
     color: rgb(42, 122, 228);
 }
 
-  .chamada {
-    background: rgb(184, 156, 213);
-    padding-bottom: 80px;
-    padding-top: 80px;
-    display: flex;
-    justify-content: center;
-  }
+.chamada {
+  background: rgb(184, 156, 213);
+  padding-bottom: 80px;
+  padding-top: 80px;
+  display: flex;
+  justify-content: center;
+}
 
-  section {
-    background: rgb(184, 156, 213);
-    padding-bottom: 80px;
-    padding-top: 80px;
-    display: flex;
-    justify-content: center;
-  }
-
-  .categoria-videos {
-    display: flex;
-    overflow-x: auto;
-    gap: 10px;
-  }
+section {
+  background: rgb(184, 156, 213);
+  padding-bottom: 80px;
+  padding-top: 80px;
+  display: flex;
+  justify-content: center;
+}
+.categoria-videos {
+  display: flex;
+  overflow-x: auto;
+  gap: 10px;
+}
 
   section {
     padding-left: 20px;
