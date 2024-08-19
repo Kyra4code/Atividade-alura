@@ -1,4 +1,11 @@
 body{
     background-color: white;
     color: red;
+    margin: 0px;
+}
+.TituloDaPagina{
+    border-bottom: solid 2px black;
+    padding: 20px;
+    font-size: 64;
+    color: rgb(42, 122, 228);
 }
