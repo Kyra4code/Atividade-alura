@@ -2,10 +2,21 @@ body{
     background-color: white;
     color: red;
     margin: 0px;
+    scrollbar-width: 10;
 }
+
 .TituloDaPagina{
     border-bottom: solid 2px black;
     padding: 20px;
     font-size: 64;
     color: rgb(42, 122, 228);
+}
+
+h1{
+    font-size: 64px;
+    color: red;
+}
+
+p{
+    font-size: 20px;
 }
